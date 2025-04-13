@@ -15,7 +15,7 @@ Price
 
 Quantity
 
-Prevents adding more than 10 products.
+Prevents adding more than 100 products.
 
 **View Products**
 
